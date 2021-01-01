@@ -1,0 +1,12 @@
+{
+    "college": {
+        "name": "RIT"
+    },
+    "country": {
+        "currency": "INR",
+        "state": "Maharashtra"
+    },
+    "person": {
+        "name": "Sonali"
+    }
+}
